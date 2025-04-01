@@ -1,0 +1,22 @@
+CREATE TABLE operadoras (
+    registro_ans TEXT,
+    cnpj VARCHAR(18),
+    razao_social TEXT,
+    nome_fantasia TEXT,
+    modalidade TEXT,
+    logradouro TEXT,
+    numero VARCHAR(50),
+    complemento TEXT,
+    bairro TEXT,
+    cidade TEXT,
+    uf VARCHAR(2),
+    cep VARCHAR(9),
+    ddd VARCHAR(3),
+    telefone VARCHAR(20),
+    fax VARCHAR(20),
+    email TEXT,
+    representante TEXT,
+    cargo_representante TEXT,
+    regiao_de_comercializacao SMALLINT,
+    data_registro DATE
+);

@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "d3667caf-f16c-460e-8dc6-60bf0ef81346",
+		"name": "API de Pesquisa de Operadoras",
+		"description": "Esta coleção permite realizar buscas nas operadoras de saúde com base em diferentes critérios como nome, CNPJ, registro e modalidade, utilizando a API fornecida",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43639659",
+		"_collection_link": "https://vitor-7644259.postman.co/workspace/02d35d46-e52a-464d-801d-54af09e7fb31/collection/43639659-d3667caf-f16c-460e-8dc6-60bf0ef81346?action=share&source=collection_link&creator=43639659"
+	},
+	"item": [
+		{
+			"name": "Buscar Operadoras Por Razao Social",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar por Registro ANS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar por CNPJ",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar por Modalidade",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
